@@ -1,6 +1,6 @@
 trigger:
   - dev/main
-
+pr: none
 # 2. Conectamos tu repositorio de infraestructura/gobernanza de Azure
 resources:
   repositories:

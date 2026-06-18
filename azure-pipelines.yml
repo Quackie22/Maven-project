@@ -1,7 +1,7 @@
 trigger:
   - dev/main
 pr: none
-# 2. Conectamos tu repositorio de infraestructura/gobernanza de Azure 2026 Junio 18 . ... webhook
+# 2. Conectamos tu repositorio de infraestructura/gobernanza de Azure 2026 Junio 18 . ... webhook testing
 resources:
   repositories:
     - repository: repo-gobernanza
